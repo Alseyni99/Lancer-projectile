@@ -7,6 +7,9 @@ def main():
     win = interface.quadratic()
     win.show()
     sys.exit(app.exec_())
+
+def f():
+    return 0
     
 if __name__ == '__main__':
     main()
